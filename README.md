@@ -62,34 +62,33 @@ Me chamo Diego Bassan, tenho 36 anos e sou de Petrópolis no Rio de Janeiro. Sou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" title="GitHub" alt="Github" />
 </p>
 
-
-
-
-
-          
-
-
 <br/>
+<br/>
+
+### 🏆 Troféus
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diegobassan&theme=flat&column=7&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 <br/>
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegobassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobassan&layout=compact&langs_count=7&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegobassan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&hide=stars" alt="GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobassan&theme=dark&locale=pt-br" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegobassan&theme=github-dark" alt="Activity Graph" />
+</p>
 
 <br/>
 
+### 🐍 Snake Game
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobassan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/diegobassan/diegobassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
