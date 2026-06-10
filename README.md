@@ -75,15 +75,12 @@ Sou apaixonado por desenvolvimento de software, boas práticas, arquitetura limp
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegobassan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&hide=stars" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegobassan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&hide=stars&cache_seconds=1800" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobassan&theme=dark&locale=pt_BR&cache_seconds=1800" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobassan&theme=dark&locale=pt-br" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegobassan&theme=github-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegobassan&theme=github-dark&custom_title=Gráfico%20de%20Atividades&area=true&cache_seconds=1800" alt="Activity Graph" />
 </p>
 
 <br/>
