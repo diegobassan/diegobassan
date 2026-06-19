@@ -75,7 +75,7 @@ Sou apaixonado por desenvolvimento de software, boas práticas, arquitetura limp
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegobassan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&hide=stars&cache_seconds=1800" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegobassan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&hide=stars,prs,issues&cache_seconds=1800" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobassan&theme=dark&locale=pt_BR&cache_seconds=1800" alt="GitHub Streak" height="150" />
 </p>
 
